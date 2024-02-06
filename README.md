@@ -1,18 +1,13 @@
-# Project Title
+# Banking Software
 
-A brief description of what this project does and what problem it solves.
+Suppose you want to create a Banking Software with function like:
 
-## Table of Contents
+1 [Deposite](#Deposite)
+2 [Withdrawal](#Withdrawal)
+3 [Show Balance](#Show-Balance)
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Account Types
+We are supposed to open 2 different account types, one for saving and other for credit card.
 
-## Installation
-
-Provide instructions on how to install and set up your project. Include any dependencies and how to install them.
-
-```bash
-# Example installation commands
-npm install
+1 [Deposite](#Saving-Account)
+2 [Credit Card Account](#Credit-Card-Accountl)
