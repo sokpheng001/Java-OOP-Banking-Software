@@ -84,7 +84,7 @@ class CreditCardAccount extends Account{
 public class Main    {
     private final static Account saving = new SavingAccount();
     private final static Account creditCard = new CreditCardAccount();
-    private final static ExchangeService exchange = (ExchangeService) saving;
+    private final static ExchangeService exchange = (ExchangeService) saving; // casting one object to be reusable.
     static void ui(){
         System.out.println("==================================");
         System.out.println("1. Saving Account");
